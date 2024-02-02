@@ -8,3 +8,4 @@ Hier ist noch nicht viel los, das soll sich aber bald ändern!
 ## Themen
 - Compiler ([Ela](https://github.com/effiti/elalang))
 - Andere Updates (z.B. zu [KingzEmpire](https://kingzempire.net))
+- Coole Sachen
