@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://effiti.github.io/sitemap.xml
