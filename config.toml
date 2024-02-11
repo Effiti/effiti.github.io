@@ -33,4 +33,5 @@ navbar_items = [
 # Author details
 [extra.author]
 name = "Effiti"
+avatar = "/images/avatar.png"
 [extra.social]
